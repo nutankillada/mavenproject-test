@@ -25,6 +25,11 @@
     <artifactId>spring-core</artifactId>
     <version>5.2.30.RELEASE</version>
 </dependency>
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-core</artifactId>
+    <version>5.2.32.RELEASE</version>
+</dependency>
   </dependencies>
   <build>
     <finalName>webapp</finalName>
